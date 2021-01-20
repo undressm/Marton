@@ -6,7 +6,7 @@
 
 https://undressm.github.io/Marton/
 
-# My Blog
+# My First Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
